@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func print_hello() {
+func main() {
 	fmt.Println("hello world")
 
 }

@@ -1,3 +1,4 @@
+#input: def(n)
 #output: *
 #        * *
 #        * * *
