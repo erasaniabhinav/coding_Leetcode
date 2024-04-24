@@ -1,4 +1,4 @@
-#takes in 2 nums and returns the sum
+#input: def(n1+n2)
 #output: 7
 
 def add_numbers(num1 , num2):
