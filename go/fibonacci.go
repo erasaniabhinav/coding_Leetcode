@@ -14,7 +14,7 @@ func fibonacci(n int) []int {
 	return fib
 }
 
-func new() {
+func main() {
 	n := 10
 	fmt.Println("Fibonacci series up to", n, "terms:", fibonacci(n))
 }

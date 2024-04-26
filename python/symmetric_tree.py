@@ -23,8 +23,8 @@ x.append(root[4])
 y.append(root[5])
 y.append(root[6])
 
-x.sort()
-y.sort()
 
 print(x)
 print(y)
+
+#PENDING
