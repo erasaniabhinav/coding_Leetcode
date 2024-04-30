@@ -32,6 +32,6 @@ while left < right:
             left += 1
     else:
             
-                # Move the right pointer to the left to decrease the sum
+            # Move the right pointer to the left to decrease the sum
             right -= 1
 

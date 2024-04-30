@@ -16,5 +16,5 @@ def print_star(n):
         print()
 
 print_star(7)
-print_star(9)
-print_star(10)
+# print_star(9)
+# print_star(10)
